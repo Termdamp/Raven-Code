@@ -265,5 +265,5 @@ Pull requests are welcome. For major changes, open an issue first to discuss wha
 ---
 
 <div align="center">
-Built with ☕ at IIT Guwahati Coding Club
+Built with ☕ at IIT Guwahati Hostel Room
 </div>
